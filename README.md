@@ -5,3 +5,4 @@ The browser display a desktop version of the site when the width of the browser 
 Tablet view appear only if the width of the browser window is between 768px and 991px, inclusively.
 Mobile view appear only if the width of the browser is equal to or less than 767px.
 
+Thanks.
